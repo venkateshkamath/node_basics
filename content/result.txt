@@ -1,0 +1,2 @@
+To append 
+This is the result: This is the first text file and This is the second text fileThis is the result: This is the first text file and This is the second text file
